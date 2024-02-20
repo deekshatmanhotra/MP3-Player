@@ -6,10 +6,11 @@ Key Features: <br>
 -> Song Progress: Track your current song's progress with a visual indicator.<br>
 -> Clean Interface: Enjoy a clutter-free design that focuses on the music.<br>
 
-Customize and Contribute:
-While this core version offers essential features, feel free to:
--> Add functionalities: Implement playlists, search options, visualizations, or other features.
--> Enhance the interface: Add themes, customization options, or a more modern design.
--> Contribute: Fork the repository, make changes, and submit pull requests to improve the project.
+Customize and Contribute: <br>
+While this core version offers essential features, feel free to: <br>
+-> Add functionalities: Implement playlists, search options, visualizations, or other features.<br>
+-> Enhance the interface: Add themes, customization options, or a more modern design.<br>
+-> Contribute: Fork the repository, make changes, and submit pull requests to improve the project.<br>
 
-NOTE - If you want to add more song then just add them in the song folder provided wiht the project
+<h4>NOTE - If you want to add more song then just add them in the song folder provided wiht the project</h4>
+
