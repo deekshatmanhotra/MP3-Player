@@ -1,10 +1,10 @@
 # MP3-Player
 This JavaFX project provides a straightforward music player for those who value simplicity and ease of use. Enjoy your favourite tunes without complexity.
-Key Features:
--> Play & Pause: Control playback effortlessly with basic play/pause buttons.
--> Volume Control: Adjust the volume to your desired level.
--> Song Progress: Track your current song's progress with a visual indicator.
--> Clean Interface: Enjoy a clutter-free design that focuses on the music.
+Key Features: <br>
+-> Play & Pause: Control playback effortlessly with basic play/pause buttons.<br>
+-> Volume Control: Adjust the volume to your desired level.<br>
+-> Song Progress: Track your current song's progress with a visual indicator.<br>
+-> Clean Interface: Enjoy a clutter-free design that focuses on the music.<br>
 
 Customize and Contribute:
 While this core version offers essential features, feel free to:
