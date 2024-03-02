@@ -12,5 +12,8 @@ While this core version offers essential features, feel free to: <br>
 -> Enhance the interface: Add themes, customization options, or a more modern design.<br>
 -> Contribute: Fork the repository, make changes, and submit pull requests to improve the project.<br>
 
+# Screenshot
+![Screenshot (31)](https://github.com/deekshatmanhotra/MP3-Player/assets/160055819/181a69df-0a2d-461a-b53a-5f7edcf1fc86)
+
 <h4>NOTE - If you want to add more song then just add them in the song folder provided wiht the project</h4>
 
